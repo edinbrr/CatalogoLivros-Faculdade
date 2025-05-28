@@ -42,6 +42,4 @@ ng serve
 🌐 Acessar no navegador
 http://localhost:4200
 
-👨‍💻 Autor
-🧑‍💻 Desenvolvido por Edson Victor
-Como parte da disciplina de Desenvolvimento Fullstack — Universidade Estácio de Sá
+🧑‍💻 Desenvolvido por Edson Victor Como parte da disciplina de Desenvolvimento Fullstack — Universidade Estácio de Sá
