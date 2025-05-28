@@ -1,59 +1,33 @@
-# LivrosAngular
+📚 Catálogo de Livros — Projeto Angular
+Este é um projeto desenvolvido com Angular 17+ utilizando standalone components.
+Consiste em um catálogo com cadastro e listagem de livros, voltado para práticas de automação de processos.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
+🚀 Funcionalidades
+Cadastro de livros com:
 
-## Development server
+Título
 
-To start a local development server, run:
+Resumo
 
-```bash
-ng serve
-```
+Editora (selecionável)
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Autores (vários)
 
-## Code scaffolding
+Listagem com exclusão direta
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Sistema de rotas com Angular Router
 
-```bash
-ng generate component component-name
-```
+Títulos dinâmicos por página
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Interface responsiva com Bootstrap
 
-```bash
-ng generate --help
-```
+🧠 Tecnologias utilizadas
+Angular 17+ (standalone)
 
-## Building
+TypeScript
 
-To build the project run:
+Bootstrap 5
 
-```bash
-ng build
-```
+Forms e Routing
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+HTML 5 + CSS
