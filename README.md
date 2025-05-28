@@ -1,29 +1,22 @@
 📚 Catálogo de Livros — Projeto Angular
 
-Este é um projeto desenvolvido com Angular 17+ utilizando standalone components.
-Consiste em um catálogo com cadastro e listagem de livros, voltado para práticas de automação de processos.
+Projeto desenvolvido com Angular 17+ (standalone) com foco em práticas modernas de automação de cadastro e organização de livros.
 
-🚀 Funcionalidades:
+⚙️ Funcionalidades:
 
-Cadastro de livros com:
+📖 Cadastro de livros
 
-Título
+📋 Exibição em tabela
 
-Resumo
+🗑️ Exclusão direta de livros
 
-Editora (selecionável)
+🌐 Navegação por rotas com Angular Router
 
-Autores (vários)
+🧭 Títulos dinâmicos na aba do navegador
 
-Listagem com exclusão direta
+📱 Interface responsiva com Bootstrap
 
-Sistema de rotas com Angular Router
-
-Títulos dinâmicos por página
-
-Interface responsiva com Bootstrap
-
-🧠 Tecnologias utilizadas:
+🧪 Tecnologias utilizadas:
 
 Angular 17+ (standalone)
 
@@ -31,20 +24,24 @@ TypeScript
 
 Bootstrap 5
 
+HTML 5 e CSS
+
 Forms e Routing
 
-HTML 5 + CSS
+💻 Como executar:
 
-🖥️ Como executar:
-
-# Instalar dependências
+📦 Instalar dependências
+```bash
 npm install
-
-# Iniciar o servidor local
+```
+▶️ Iniciar o servidor local
+```bash
 ng serve
+```
 
-# Acesse:
+🌐 Acessar no navegador
 http://localhost:4200
 
 👨‍💻 Autor
-Desenvolvido por Edson Victor como parte de experiência / Desenvolvimento Fullstack [Universidade Estacio de Sá].
+🧑‍💻 Desenvolvido por Edson Victor
+Como parte da disciplina de Desenvolvimento Fullstack — Universidade Estácio de Sá
