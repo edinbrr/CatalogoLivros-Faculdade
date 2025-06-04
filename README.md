@@ -60,4 +60,4 @@ A interface foi desenvolvida com foco em responsividade e experiência do usuár
 📆 2025
 ```
 
-<p align="center"> <strong>✔️ Trabalho 100% funcional e pronto para entrega!</strong> </p> ```
+<p align="center"> <strong>✔️ Trabalho 100% funcional e pronto para entrega!</strong> </p>
