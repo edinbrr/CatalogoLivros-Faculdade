@@ -1,45 +1,63 @@
-📚 Catálogo de Livros — Projeto Angular
+<h1 align="center">📚 Catálogo de Livros — Projeto Angular</h1>
 
-Projeto desenvolvido com Angular 17+ (standalone) com foco em práticas modernas de automação de cadastro e organização de livros.
+<p align="center">
+  Projeto desenvolvido com Angular 17+ (standalone) aplicando práticas modernas de cadastro, exclusão e exibição de livros em uma interface responsiva 📘📗📕
+</p>
 
-⚙️ Funcionalidades:
+---
 
-📖 Cadastro de livros
+## ✨ Tecnologias Utilizadas
 
-📋 Exibição em tabela
+- 🌐 **Framework:** Angular 17+ (standalone)
+- 🟨 **Linguagem:** TypeScript
+- 🎨 **Estilo:** Bootstrap 5 + HTML5 + CSS
+- 🧭 **Recursos Angular:** Forms e Angular Router
 
-🗑️ Exclusão direta de livros
+---
 
-🌐 Navegação por rotas com Angular Router
+## 🎯 Funcionalidades
 
-🧭 Títulos dinâmicos na aba do navegador
+- 📖 Cadastro de livros
+- 📋 Exibição em tabela
+- 🗑️ Exclusão direta de livros
+- 🌐 Navegação por rotas com Angular Router
+- 🧭 Títulos dinâmicos na aba do navegador
+- 📱 Interface responsiva com Bootstrap
 
-📱 Interface responsiva com Bootstrap
+---
 
-🧪 Tecnologias utilizadas:
+## 🚀 Como Executar o Projeto
 
-Angular 17+ (standalone)
+### 1️⃣ Instalar dependências
 
-TypeScript
-
-Bootstrap 5
-
-HTML 5 e CSS
-
-Forms e Routing
-
-💻 Como executar:
-
-📦 Instalar dependências
-```bash
+```
 npm install
 ```
-▶️ Iniciar o servidor local
-```bash
+
+2️⃣ Iniciar o servidor local
+```
 ng serve
 ```
-
-🌐 Acessar no navegador
+3️⃣ Acessar no navegador
+```
 http://localhost:4200
+```
 
-🧑‍💻 Desenvolvido por Edson Victor Como parte da disciplina de Desenvolvimento Fullstack.
+---
+
+📌 Observações
+
+Este projeto Angular utiliza estrutura standalone, com organização modular e código enxuto.
+Ideal para estudos de formulários reativos, rotas dinâmicas e exibição de dados em tabelas.
+A interface foi desenvolvida com foco em responsividade e experiência do usuário.
+
+---
+
+👨‍🎓 Autor
+```
+👨‍🏫 Desenvolvido por Edson Victor
+📚 Projeto Acadêmico – Desenvolvimento Full Stack
+📆 2025
+```
+
+<p align="center"> <strong>✔️ Trabalho 100% funcional e pronto para entrega!</strong> </p> ```
